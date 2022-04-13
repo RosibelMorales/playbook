@@ -1,3 +1,5 @@
+//Clases y Objetos.
+
 const Logger = require('./logger') // Invocas el módulo que contiene la clase
 
 // Creación de un objeto
